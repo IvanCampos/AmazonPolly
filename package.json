@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "aws-sdk": "^2.48.0",
+    "fs": "0.0.1-security"
+  },
+  "name": "pollyboston",
+  "version": "1.0.0",
+  "main": "speakSSML.js",
+  "devDependencies": {},
+  "scripts": {},
+  "author": "Ivan Campos",
+  "license": "MIT",
+  "description": ""
+}
